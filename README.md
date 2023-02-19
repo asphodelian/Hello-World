@@ -2,9 +2,9 @@
 DS 311: Week 1 Git Lab Exercise
 Learning how to use:
 Git Bash
-  Clone
-  Add
-  Commit
-  Push
+  \Clone
+  \Add
+  \Commit
+  \Push
 Github
-  Repository
+  \Repository
